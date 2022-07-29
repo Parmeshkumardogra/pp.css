@@ -1,0 +1,106 @@
+.detail{
+    background-color: #E4F9F5;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+
+}
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.cloud-2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.cloud-1{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+    
+}
+.contact-me{
+    margin-bottom: 30px;
+}
+
+
+.contact-me a{
+    background-color: #66BFBF;
+    color:white ;
+    font-size: 1.3rem;
+    padding: 13px;
+    border-radius: 7px;
+}
+h2{
+    font-weight: normal;
+}
+
+.detail h1{
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    line-height: 2;
+    color: #66BFBF;
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto 100 auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.profile img{
+    width: 200px;
+    height: 200px;
+}
+.middle-container{
+    text-align: center;
+    padding: 10px;
+}
+.third-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.fourth-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.bottom-container a{
+    color: #11999E;
+    padding-right: 25px;
+}
+.bottom-container p{
+    color: #EAF6F6;
+    padding-right: 30px;
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h2{
+    color:#66BFBF;
+    font-size: 2rem;
+}
+h3{
+    color:#66BFBF;
+    font-size: 1rem;
+}
+.contact-me h3{
+    padding-bottom:10px ;
+}
